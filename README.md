@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=86E9DC&text=&animation=twinkling&height=80)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmkil11&show_icons=true)
 
 
