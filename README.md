@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gmkil11/gmkil11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,9 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=86E9DC&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=86E9DC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+gmkil11's+GitHub!👋)](https://git.io/typing-svg)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmkil11&show_icons=true)
 
 
