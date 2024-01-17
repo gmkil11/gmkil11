@@ -1,22 +1,6 @@
-
-<!--
-**gmkil11/gmkil11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=86E9DC&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=86E9DC&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+gmkil11's+GitHub!👋)](https://git.io/typing-svg)
-
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmkil11&show_icons=true)
 
@@ -25,6 +9,14 @@ Here are some ideas to get you started:
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmkil11)](https://solved.ac/gmkil11)
 
+
+## 💻 DEV's log 💻
+
+![Static Badge](https://img.shields.io/badge/devmusi's%20Tistory-brightgreen?style=for-the-badge&logo=tistory&logoColor=%23ffffff&color=%23fc5b4a&link=https%3A%2F%2Fdevmusi.tistory.com%2F)
+
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=devmusi)](https://github.com/MoonJuhan/tistory-readme-stats)
+
+ ## 🔨 Tech Stack 🔨
 ![Static Badge](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)
@@ -44,6 +36,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 
+![Static Badge](https://img.shields.io/badge/dart-brightgreen?style=for-the-badge&logo=dart&color=%230175C2)
+![Static Badge](https://img.shields.io/badge/flutter-brightgreen?style=for-the-badge&logo=flutter&color=%2302569B)
+
 
 ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white)
@@ -51,4 +46,17 @@ Here are some ideas to get you started:
 
 ![Static Badge](https://img.shields.io/badge/intellij-FE275D?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## ✏ Certificate ✏
+  SQLD
+
+## 📞 Contact 📞
+ <div style="display:flex; flex-direction:row;">
+      <a href="https://www.instagram.com/m_24g.k/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+      </a>
+      <a href="mailto:mkkil4451@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+      </a>
+  </div><br>
 
